@@ -2,8 +2,8 @@
 
 play.google.com/store/apps/details?id=com.kumar.randomizerplus
 
-Old Android Studio App Project
+∗ Created a randomizer app and submitted it to Google Play store in 2022
 
-∗ Created a randomizer app and submitted it to the Google Play Store
+∗ Developed using Android Studio and Kotlin
 
-∗ Developed using Android Studio and Kotlin/Java
+∗ Generates random numbers up to 2.1 billion by entering a range.
