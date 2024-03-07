@@ -1,4 +1,4 @@
-# RandomizerPlusApp
+# RandomizerPlus Android App
 
 play.google.com/store/apps/details?id=com.kumar.randomizerplus
 
